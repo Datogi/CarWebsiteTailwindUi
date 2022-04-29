@@ -1,7 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.photo{
-    height: 200vh;
-  
+.photo {
+  height: 200vh;
+}
+.widtb {
+  width: 164vh;
+  background-color: white;
 }
